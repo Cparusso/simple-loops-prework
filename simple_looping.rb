@@ -14,7 +14,6 @@ def times_iterator(number_of_times)
 
   number_of_times.do
     puts phrase
-
 end
 
 def while_iterator(number_of_times)
